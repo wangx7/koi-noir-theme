@@ -121,7 +121,7 @@
 			"name": "Class",
 			"scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#07c160"
 			}
 		},
 		{
