@@ -2,7 +2,7 @@
   "name": "koi-noir-theme",
   "displayName": "Koi Noir Theme",
   "description": "基于 Material Theme 的自定义主题：幸运锦鲤",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "publisher": "wangx123",
   "icon": "logo.jpg",
   "engines": {
@@ -11,12 +11,16 @@
   "categories": [
     "Themes"
   ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/wangx7/koi-noir-theme.git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "wangx",
+        "label": "Koi Noir Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/wangx-color-theme.json"
+        "path": "./themes/koi-noir-color-theme.json"
       }
     ]
   }
