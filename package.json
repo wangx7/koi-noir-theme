@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Koi Noir Theme",
+        "label": "Koi Noir lan Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/koi-noir-color-theme.json"
+        "path": "./themes/koi-noir-lan-color-theme.json"
+      },
+      {
+        "label": "Koi Noir lv Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/koi-noir-lv-color-theme.json"
       }
     ]
   }
