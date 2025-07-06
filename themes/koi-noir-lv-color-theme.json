@@ -135,7 +135,7 @@
 			"name": "Class method",
 			"scope": "meta.definition.method entity.name.function",
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#babed8"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 			"name": "JSON key",
 			"scope": "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#babed8"
 			}
 		},
 		{
