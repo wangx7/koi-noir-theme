@@ -2,7 +2,7 @@
   "name": "koi-noir-theme",
   "displayName": "Koi Noir Theme",
   "description": "基于 Material Theme 的自定义主题：幸运锦鲤",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "publisher": "wangx123",
   "icon": "logo.jpg",
   "engines": {
@@ -18,12 +18,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Koi Noir lan Theme",
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/koi-noir-dark-color-theme.json"
+      },
+      {
+        "label": "Palenight High Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/koi-noir-palenight-high-color-theme.json"
+      },
+      {
+        "label": "lan Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/koi-noir-lan-color-theme.json"
       },
       {
-        "label": "Koi Noir lv Theme",
+        "label": "lv Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/koi-noir-lv-color-theme.json"
       }
